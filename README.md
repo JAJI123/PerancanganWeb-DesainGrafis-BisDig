@@ -27,4 +27,4 @@ Responsive design adalah cara membuat tampilan website supaya bisa menyesuaikan 
 Media Queries
 Media queries adalah fitur CSS yang memungkinkan kita menulis aturan gaya berbeda berdasarkan kondisi perangkat, seperti lebar layar, orientasi, atau resolusi. Dengan media queries, kita bisa mengubah tampilan website agar sesuai dengan ukuran layar pengguna, misalnya membuat tata letak berbeda antara layar desktop dan ponsel
 
-- [Portofolio] (https://gist.github.com/JAJI123/8f27ee716390e538e3d576795311fb05)
+- [Portofolio](https://gist.github.com/JAJI123/8f27ee716390e538e3d576795311fb05)
