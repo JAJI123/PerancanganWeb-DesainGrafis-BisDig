@@ -5,6 +5,8 @@
 
 PromoCard - Landing Page Promosi
 Proyek ini adalah contoh implementasi PromoCard untuk landing page promosi. PromoCard ini dibuat menggunakan HTML dasar, dan berisi elemen gambar, judul, deskripsi promosi, serta tombol ajakan untuk mendorong pengunjung melakukan pendaftaran.
+
+<img loading="lazy" width="300px" src="./PromoCard.jpg" alt="Dashboard" />
 - [PromoCard](https://gist.github.com/JAJI123/fd710c8945e286c3672eacb78baff8ab)
 
 
