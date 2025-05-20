@@ -40,9 +40,25 @@ Untuk membuat halaman profil fotografer profesional, struktur HTML5 yang baik bi
 • `<main>`: Konten utama halaman  
  ◦ `<section>` Tentang Saya: Menjelaskan siapa fotografer  
  ◦ `<section>` Galeri: Menampilkan beberapa hasil karya fotografi  
-• `<footer>`: Menampilkan tautan ke Instagram dan Strava serta copyright  
+• `<footer>`: Menampilkan tautan ke Instagram dan Strava serta copyright 
 
-[halaman profil seorang fotografer](https://gist.github.com/JAJI123/ce83e6465674b39cc346f82d5ecb6e59)
+<table>
+  <tr>
+    <td><img loading="lazy" width="130px" src="./1.jpg" alt="1" /></td>
+    <td><img loading="lazy" width="100px" src="./2.jpg" alt="2" /></td>
+  </tr>
+  <tr>
+    <td><img loading="lazy" width="100px" src="./3.jpg" alt="3" /></td>
+    <td><img loading="lazy" width="300px" src="./4.jpg" alt="4" /></td>
+  </tr>
+  <tr>
+    <td><img loading="lazy" width="100px" src="./5.jpg" alt="5" /></td>
+    <td><img loading="lazy" width="125px" src="./6.jpg" alt="6" /></td>
+  </tr>
+</table>
+
+
+[Halaman profil seorang fotografer](https://gist.github.com/JAJI123/ce83e6465674b39cc346f82d5ecb6e59)
 
 ---
 
