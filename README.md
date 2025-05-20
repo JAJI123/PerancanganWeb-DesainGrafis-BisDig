@@ -14,6 +14,8 @@ Pada awalnya, komentar tidak akan terlihat saat halaman pertama kali dimuat. Kom
    - Jika disembunyikan, komentar akan ditampilkan dengan mengubah gaya display menjadi `block`, dan teks tombol menjadi "Sembunyikan Semua Komentar".
    - Jika komentar sudah ditampilkan, maka komentar akan disembunyikan kembali dan teks tombol akan berubah menjadi "Tampilkan Semua Komentar".
 
+<img loading="lazy" width="300px" src="./HasilTombolKomentar.png" alt="Dashboard" />
+
 [TombolKomentar](https://gist.github.com/JAJI123/54717130a4eca9cc86d55b2209ccb2ab)
 
 ---
@@ -42,6 +44,7 @@ Untuk membuat halaman profil fotografer profesional, struktur HTML5 yang baik bi
  ◦ `<section>` Galeri: Menampilkan beberapa hasil karya fotografi  
 • `<footer>`: Menampilkan tautan ke Instagram dan Strava serta copyright 
 
+<img loading="lazy" width="300px" src="./HasilFg.png" alt="Dashboard" />
 <table>
   <tr>
     <td><img loading="lazy" width="130px" src="./1.jpg" alt="1" /></td>
@@ -63,7 +66,9 @@ Untuk membuat halaman profil fotografer profesional, struktur HTML5 yang baik bi
 ---
 
 ## Jawaban No3 ada di E-campus
+Screenshoot uploud jawaban pada e-campus, soal UI/UX
 
+<img loading="lazy" width="300px" src="./ssE-campus.jpg" alt="Dashboard" />
 ---
 
 ## 4. Portofolio
@@ -89,7 +94,8 @@ Proyek ini adalah contoh implementasi PromoCard untuk landing page promosi. Prom
 - Judul
 - Deskripsi promosi
 - Tombol ajakan (Call to Action)
-
+- 
+<img loading="lazy" width="300px" src="./TampilanPromoCard.png" alt="Dashboard" />
 <img loading="lazy" width="300px" src="./PromoCard.jpg" alt="Dashboard" />
 
 [PromoCard](https://gist.github.com/JAJI123/fd710c8945e286c3672eacb78baff8ab)
