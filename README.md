@@ -14,7 +14,7 @@ Pada awalnya, komentar tidak akan terlihat saat halaman pertama kali dimuat. Kom
    - Jika disembunyikan, komentar akan ditampilkan dengan mengubah gaya display menjadi `block`, dan teks tombol menjadi "Sembunyikan Semua Komentar".
    - Jika komentar sudah ditampilkan, maka komentar akan disembunyikan kembali dan teks tombol akan berubah menjadi "Tampilkan Semua Komentar".
 
-🔗 [TombolKomentar](https://gist.github.com/JAJI123/54717130a4eca9cc86d55b2209ccb2ab)
+[TombolKomentar](https://gist.github.com/JAJI123/54717130a4eca9cc86d55b2209ccb2ab)
 
 ---
 
@@ -42,6 +42,8 @@ Untuk membuat halaman profil fotografer profesional, struktur HTML5 yang baik bi
  ◦ `<section>` Galeri: Menampilkan beberapa hasil karya fotografi  
 • `<footer>`: Menampilkan tautan ke Instagram dan Strava serta copyright  
 
+[halaman profil seorang fotografer](https://gist.github.com/JAJI123/ce83e6465674b39cc346f82d5ecb6e59)
+
 ---
 
 ## Jawaban No3 ada di E-campus
@@ -56,7 +58,7 @@ Untuk membuat halaman profil fotografer profesional, struktur HTML5 yang baik bi
 Media queries adalah fitur CSS yang memungkinkan kita menulis aturan gaya berbeda berdasarkan kondisi perangkat, seperti lebar layar atau resolusi.  
 Dengan media queries, kita bisa mengubah tampilan website agar sesuai dengan ukuran layar pengguna.
 
-🔗 [Portofolio](https://gist.github.com/JAJI123/8f27ee716390e538e3d576795311fb05)
+[Portofolio](https://gist.github.com/JAJI123/8f27ee716390e538e3d576795311fb05)
 
 ---
 
@@ -74,4 +76,4 @@ Proyek ini adalah contoh implementasi PromoCard untuk landing page promosi. Prom
 
 <img loading="lazy" width="300px" src="./PromoCard.jpg" alt="Dashboard" />
 
-🔗 [PromoCard](https://gist.github.com/JAJI123/fd710c8945e286c3672eacb78baff8ab)
+[PromoCard](https://gist.github.com/JAJI123/fd710c8945e286c3672eacb78baff8ab)
